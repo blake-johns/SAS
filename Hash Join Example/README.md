@@ -1,4 +1,4 @@
-# SAS Hash Join
+# SAS Hash Left Join
 
 ```sas
 data new_dataset_name;
